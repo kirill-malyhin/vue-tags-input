@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/JohMun/vue-tags-input.git"
+    "url": "https://github.com/kirill-malyhin/autonumeric-vue.git"
   },
   "main": "dist/vue-tags-input.js",
   "scripts": {
